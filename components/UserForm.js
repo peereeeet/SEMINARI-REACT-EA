@@ -1,5 +1,3 @@
-// components/UserForm.js
-
 import React, { useState } from 'react';
 
 const UserForm = ({ onSubmit }) => {
